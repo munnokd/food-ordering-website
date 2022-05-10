@@ -1,0 +1,22 @@
+.bg-4{
+  background-color: #2f2f2f;
+  color: #ffffff;
+
+}
+
+footer{
+  display: block;
+}
+
+.mypanel{
+  border: 1px solid #eaeaec; 
+  margin: 1rem; 
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05); 
+  background-color: #FAFAFA;  
+  padding:15px;
+  border-radius: 5px;
+}
+
+input{
+  border: 5px solid white;
+}
